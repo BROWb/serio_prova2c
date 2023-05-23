@@ -2,6 +2,10 @@ body{
 background: rgb(194, 166, 166);
 background: radial-gradient(circle, rgb(181, 163, 163) 0%, rgb(143, 183, 122) 100%);
 }
-formlogin{
-    background-color: aliceblue;
+.contain{
+
+    text-align: center;
+    border: 2px solid black;
+ width: 500px;
+ margin-left: 500px;
 }
